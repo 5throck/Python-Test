@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "openpyxl_test", "openpyxl_test.pyproj", "{FA228663-E0E2-4AFB-9F11-83C7E889B583}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA228663-E0E2-4AFB-9F11-83C7E889B583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA228663-E0E2-4AFB-9F11-83C7E889B583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {470B408E-096C-4E45-80BC-29E3A2508F9B}
+	EndGlobalSection
+EndGlobal

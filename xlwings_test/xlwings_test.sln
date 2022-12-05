@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "xlwings_test", "xlwings_test.pyproj", "{5B7EB283-7A6B-439E-8518-7708CE3B1E3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B7EB283-7A6B-439E-8518-7708CE3B1E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B7EB283-7A6B-439E-8518-7708CE3B1E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC2126EA-90C5-4780-AB41-9C3A3C2B8F5E}
+	EndGlobalSection
+EndGlobal
